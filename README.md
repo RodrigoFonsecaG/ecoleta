@@ -15,7 +15,7 @@
 </h1>
 
 <h1>
-    <img src="procurar.png"
+    <img src="pesquisar.png"
 </h1>
 
 
