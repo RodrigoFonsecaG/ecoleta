@@ -1,10 +1,7 @@
 <h1 align="center">
-    <img src="public/assets/logo.svg">
+    <img src="public/assets/icones/logo.svg">
 </h1>
 
-<h1 align="center">
-    <img src="public/github/ecoleta.gif">
-</h1>
 
 <h1>
     <img src="home.png"
